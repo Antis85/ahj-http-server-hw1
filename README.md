@@ -1,5 +1,7 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tqp2ok3o6886xper/branch/main?svg=true)](https://ci.appveyor.com/project/Antis85/ahj-http-server-hw1/branch/main)
-
 # ahj-http-server-hw1
 
+## Backend:
 https://ahj-hw-http.herokuapp.com/
+
+## Frontend:
+https://antis85.github.io/ahj-http-frontend-hw1/
