@@ -1,0 +1,24 @@
+{
+  "name": "ahj-http-server-hw1",
+  "version": "1.0.0",
+  "description": "ahj",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "yarn install",
+    "start": "forever ./src/js/app.js",
+    "watch": "forever -w ./src/js/app.js"    
+  },
+  "repository": "https://github.com/Antis85/ahj-http-server-hw1.git",
+  "author": "Antis",
+  "license": "ISC", 
+  "dependencies": {
+    "forever": "^3.0.2",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-static": "^5.0.0",
+    "uuid": "^8.3.0"
+  },
+  "engines": {
+    "node": "12.x"
+  } 
+}
